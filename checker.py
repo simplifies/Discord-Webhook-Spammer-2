@@ -5,7 +5,6 @@ import threading
 import time
 from colorama import Fore, init
 import random
-from discord_webhook import DiscordWebhook
 
 from core.localscommands import clear, pause, title
 
